@@ -1,4 +1,4 @@
-# drive moto - интернет магазин... 
+# EXTREM MOTO - техника для активного отдыха
 - Вёрстка интернет магазина HTML/CSS/JS... [посмотрите здесь](https://evgeniymurygin.github.io/drive-moto/)
 - Используется:
 - табы,

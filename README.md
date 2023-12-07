@@ -1,5 +1,5 @@
 # EXTREM MOTO - техника для активного отдыха...
-- Вёрстка интернет магазина HTML/CSS/JS... [посмотрите здесь](https://evgeniymurygin.github.io/drive-moto/)
+- Вёрстка интернет магазина HTML/CSS/JS... [посмотрите здесь](https://evgeniymurygin.github.io/EXTREM-MOTO/)
 - Используется:
 - табы,
 - хлебные крошки,

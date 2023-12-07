@@ -122,7 +122,7 @@ $(function(){
 
 
   $(".rate-yo").rateYo({
-    ratedFill: "#1C62CD",
+    ratedFill: "#E1A252",
     spacing: "7px",
     normalFill: "#c4c4c4"
   });

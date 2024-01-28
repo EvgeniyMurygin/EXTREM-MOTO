@@ -2,13 +2,15 @@ $(function(){
 
   $('.banner-section__slider').slick({
     dots: true,
+    autoplay: true,
+    autoplaySpeed: 3000,
     prevArrow: '<button class="banner-section__slider-btn banner-section__slider-btnprev"><img src="images/icon/arrow-left.svg" alt="icon"></button>',
     nextArrow: '<button class="banner-section__slider-btn banner-section__slider-btnnext"><img src="images/icon/arrow-right.svg" alt="icon"></button>',
     responsive: [
       {
         breakpoint: 969,
         settings: {
-          arrows: false
+          arrows: false,
         }
       }
     ]
@@ -122,7 +124,7 @@ $(function(){
 
 
   $(".rate-yo").rateYo({
-    ratedFill: "#E1A252",
+    ratedFill: "#ff0000",
     spacing: "7px",
     normalFill: "#c4c4c4"
   });

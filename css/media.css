@@ -219,6 +219,8 @@
   }
   .product-card__buttons a + a{
     margin-left: 10px;
+    position: relative;
+    z-index: 1;
   }
   .product-card__img{
     width: 100%;
